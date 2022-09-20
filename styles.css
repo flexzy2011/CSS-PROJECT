@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+li {
+display: inline;
+font-family: 'Roboto';
+padding: 10px;
+}
+.jack {
+    color: tomato;
+    padding: 1px;
+    margin-left: 1px;
+}
+h1 {
+    color: gold;
+}
+th {
+    padding: 10px;
+    color: brown;
+    text-decoration: underline;
+}
+td {
+    font-style: oblique;
+}
+input {
+    font-style: calc();
+    color: ash;
+}
+ul li a {
+    text-decoration: none;
+}
